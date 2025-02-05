@@ -17,7 +17,7 @@
   </div>
   
 ### `¿Dudas? ¡Contáctame!`
-<a href="http://wa.me/522431268546" target="blank"><img src="https://img.shields.io/badge/Crissdavi-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51913776697" target="blank"><img src="https://img.shields.io/badge/Crissdavi-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
 
