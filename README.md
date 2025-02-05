@@ -1,4 +1,4 @@
-<h1 align='center'>Fz | Simple Wa - Bot</h1>
+<h1 align='center'> Kuroda | Haru ✯</h1>
 
 <div align="center">
 
