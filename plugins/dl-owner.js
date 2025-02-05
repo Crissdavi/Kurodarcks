@@ -7,7 +7,7 @@ let name = await conn.getName(who)
 const nomorown = "5212431268546"
 m.react(rwait)
   await sendContactArray(conn, m.chat, [
-    [`${nomorown}`, `${await conn.getName(nomorown+'@s.whatsapp.net')}`, `© Devolper Owner`, `Creador oficial de Simple | Wa Bot`, `📍 https://github.com/FzTeis`],
+    [`${nomorown}`, `${await conn.getName(nomorown+'@s.whatsapp.net')}`, `Kuroda`, `Creador oficial`, `📍 https://github.com/FzTeis`],
     [`${conn.user.jid.split('@')[0]}`, `${await conn.getName(conn.user.jid)}`, `${wm}`, `No hagas Spam`, `📍 https://github.com/FG98F/dylux-fg`]
   ], m)
 m.react(done)
