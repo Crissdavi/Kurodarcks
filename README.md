@@ -5,7 +5,7 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/FzTeis"><img title="Autor" src="https://img.shields.io/badge/FzTeis-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Crissdai"><img title="Autor" src="https://img.shields.io/badge/FzTeis-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/FzTeis/followes"><img title="Seguidores" src="https://img.shields.io/github/followers/FzTeis?color=green&style=flat-square"></a>
