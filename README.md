@@ -5,11 +5,11 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Crissdai"><img title="Autor" src="https://img.shields.io/badge/FzTeis-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Crissdai"><img title="Autor" src="https://img.shields.io/badge/Haru ✯-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/FzTeis/followes"><img title="Seguidores" src="https://img.shields.io/github/followers/FzTeis?color=green&style=flat-square"></a>
-<a href="https://github.com/FzTeis/Simple_Bot-Wa/stargazers/"><img title="Estrellas" src="https://img.shields.io/github/stars/FzTeis/Simple_Bot-Wa?color=red&style=flat-square"></a>
+<a href="https://github.com/Crissdavi/followes"><img title="Seguidores" src="https://img.shields.io/github/followers/Crissdavi?color=green&style=flat-square"></a>
+<a href="https://github.com/Crissdavi/Kurodarcks/stargazers/"><img title="Estrellas" src="https://img.shields.io/github/stars/FzTeis/Simple_Bot-Wa?color=red&style=flat-square"></a>
 <a href="https://github.com/FzTeis/Simple_Bot-Wa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FzTeis/Simple_Bot-Wa?color=red&style=flat-square"></a>
 <a href="https://github.com/FzTeis/Simple_Bot-Wa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FzTeis/Simple_Bot-Wa?label=Visitantes&color=blue&style=flat-square"></a>
 </p>
