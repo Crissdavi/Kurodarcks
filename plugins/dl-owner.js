@@ -4,7 +4,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let pp = await conn.profilePictureUrl(who).catch(_ => hwaifu.getRandom())
 let name = await conn.getName(who)
-const nomorown = "5212431268546"
+const nomorown = "51913776697"
 m.react(rwait)
   await sendContactArray(conn, m.chat, [
     [`${nomorown}`, `${await conn.getName(nomorown+'@s.whatsapp.net')}`, `Kuroda`, `Creador oficial`, `📍 https://github.com/FzTeis`],
