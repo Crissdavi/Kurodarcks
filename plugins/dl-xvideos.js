@@ -2,7 +2,7 @@ meimport Starlights from '@StarlightsTeam/Scraper'
 
 let handler = async (m, { conn, args, command, usedPrefix }) => {
 if (!global.db.data.chats[m.chat].nsfw) ,throw `🚩 El grupo no admite contenido *Nsfw.*\n\n> Para activarlo un *Administrador* debe usar el comando */on nsfw*`;
-if (!args[0]) throw, `🚩 Ingresa el enlace del vídeo de Xvideos*`;
+if (!args[0]) throw `🚩 Ingresa el enlace del vídeo de Xvideos*`;
 
 let user = global.db.data.users[m.sender]
 await m.react('🕓')
