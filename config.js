@@ -33,7 +33,7 @@ global.APIKeys = { // APIKey Here
 global.packname = '♕ 𝐓𝐄𝐀𝐌 𝐃𝐀𝐑𝐂𝐊𝐒  ♔'
 global.wm = '愛 ┊Simple Bot 愛'
 global.author = 'Haru ✯'
-global.link_uni = 'https://chat.whatsapp.com/JQMyVsc8U4iEHi7qLFgYNH'
+global.link_uni = 'https://whatsapp.com/channel/0029VagzzXs65yD3pXoJSp10'
 global.simple_logo = 'https://i.imgur.com/Owmb93c.png' 
 
 global.wait = '*⌛ Cargando . . . Espera un momento 🦖*'
