@@ -5,8 +5,9 @@ import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
 //import { plugins } from '../lib/plugins.js'
 let tags = {
-  'dl': 'LISTA DE COMANDOS',
-  'owner': 'OWNER COMMANDS',
+  'dl': 'COMANDOS DE DESCARGA',
+  'rg': 'CONANDOS DE REGISTRO',
+  'owner': 'COMANDOS DEL CREADOR',
   'advanced': 'AVANZADO',
 }
 const defaultMenu = {
