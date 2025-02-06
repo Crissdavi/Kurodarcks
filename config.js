@@ -10,6 +10,7 @@ import moment from 'moment-timezone';
 global.owner = [
   ['5212431268546', '©FzTeis', true],
   ['51913776697', 'Haru', true],
+  ['51939658716', 'Mateo', true]
 ] //Numeros de owner 
 
 global.mods = [] 
