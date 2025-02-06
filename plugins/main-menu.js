@@ -129,7 +129,7 @@ let pp = imagen
   }
 }
 handler.command = ['menu', 'help', 'menú'] 
-handler.register = false
+handler.register = true
 
 handler.exp = 3
 
