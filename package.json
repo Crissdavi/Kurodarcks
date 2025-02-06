@@ -43,6 +43,7 @@
         "@bochilteam/scraper": "^4.2.4",
         "@kaviaann/scrape": "^1.0.1",
         "@vitalets/google-translate-api": "^9.2.0",
+        "@StarlightsTeam/Scraper": "github:StarlightsTeam/StarlightsTeam-Scraper",
         "@whiskeysockets/baileys": "latest",
         "@xct007/frieren-scraper": "^0.0.2",
         "google-libphonenumber": "latest",
