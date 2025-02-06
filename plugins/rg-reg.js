@@ -1,5 +1,4 @@
 import db from '../lib/database.js'
-import db from '../lib/database.js'
 import { createHash } from 'crypto'
 import fs from 'fs'
 import fetch from 'node-fetch'
@@ -28,7 +27,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
       txt += `│  ✩  *Edad* : ${age} años\n`
       txt += `│  ✩  *Numero de serie*\n`
       txt += `└  ✩  ${sn}`
-await conn.sendFile(m.chat, img, 'hola', txt, m) //conn.sendAi(m.chat, botname, wm, txt, img, img, canal, m)
+await conn.sendFile(m.chat, img, 'hola', txt, m, rpl) //conn.sendAi(m.chat, botname, wm, txt, img, img, canal, m)
 await m.react('✅')
 }
 handler.help = ['reg'].map(v => v + ' *<nombre.edad>*')
