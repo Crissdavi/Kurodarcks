@@ -30,9 +30,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '☪️┊Simple | Wa Bot  ͙۪▩⃟⁩ 🎋'
-global.wm = '⚕️┊Simple | Wa Bot  ͙۪▩⃟⁩ 🌾'
-global.author = '©FzTeis'
+global.packname = '♕ 𝐓𝐄𝐀𝐌 𝐃𝐀𝐑𝐂𝐊𝐒  ♔'
+global.wm = '愛 ┊Simple Bot 愛'
+global.author = 'Haru ✯'
 global.link_uni = 'https://chat.whatsapp.com/JQMyVsc8U4iEHi7qLFgYNH'
 global.simple_logo = 'https://i.imgur.com/Owmb93c.png' 
 
