@@ -7,6 +7,7 @@ import { xpRange } from '../lib/levelling.js'
 let tags = {
   'dl': 'COMANDOS DE DESCARGA',
   'rg': 'CONANDOS DE REGISTRO',
+  'sticker': 'STICKERS',
   'owner': 'COMANDOS DEL CREADOR',
   'advanced': 'AVANZADO',
 }
