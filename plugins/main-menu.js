@@ -10,6 +10,7 @@ let tags = {
   'sticker': 'STICKERS',
   'owner': 'COMANDOS DEL CREADOR',
   'advanced': 'AVANZADO',
+  'nsfw': 'NSFW',
 }
 const defaultMenu = {
   before: ``.trimStart(),
