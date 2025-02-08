@@ -34,6 +34,7 @@ global.packname = '♕ 𝐓𝐄𝐀𝐌 𝐃𝐀𝐑𝐂𝐊𝐒  ♔'
 global.wm = '愛 ┊Simple Bot 愛'
 global.author = 'Haru ✯'
 global.botname = 'Josou Maid'
+global.textbot = `Koruda-bot`
 global.link_uni = 'https://whatsapp.com/channel/0029VagzzXs65yD3pXoJSp10'
 global.simple_logo = 'https://i.imgur.com/Owmb93c.png' 
 global.namechannel = '【 ♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩ 】'
