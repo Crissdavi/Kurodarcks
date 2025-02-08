@@ -14,7 +14,7 @@ await m.react('✅')
 await m.react('✖️')
 }}
 handler.help = ['xvideosdl *<url>*']
-handler.tags = ['downloader', 'nsfw']
+handler.tags = ['dl']
 handler.command = ['xvideosdl', 'xvideos']
 //handler.limit = 200
 handler.register = true 
