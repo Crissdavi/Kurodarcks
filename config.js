@@ -35,6 +35,7 @@ global.wm = '愛 ┊Simple Bot 愛'
 global.author = 'Haru ✯'
 global.link_uni = 'https://whatsapp.com/channel/0029VagzzXs65yD3pXoJSp10'
 global.simple_logo = 'https://i.imgur.com/Owmb93c.png' 
+global.namechannel = '【 ♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩ 】'
 
 global.wait = '*⌛ Cargando . . . Espera un momento 🦖*'
 global.rwait = '⌛'
